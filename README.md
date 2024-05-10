@@ -1,4 +1,4 @@
-
+<img align="right" alt="Coding" width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3NqNWNvMjVmYmlzeDRoc3hza21hMWowMnBra2szaGQ4eG00d2h5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FeVg8ViEczcxG/giphy.gif">
 <h1 align="center">Hi 👋, I'm LilWhiteFoxxx</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
@@ -7,7 +7,7 @@
 - 💬 Ask me about **Everything**
 - 📫 How to reach me **catdablack1102@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
