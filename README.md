@@ -29,5 +29,12 @@
 ## Github stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LilWhiteFoxxx&show_icons=true&theme=dark) 
 
+## Activity On GitHub
+
+<p align="right">
+  <a href="https://github.com/LilWhiteFoxxx">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LilWhiteFoxxx&theme=dark&hide_border=true&stroke=f53b3b"/>
+</a> 
+</p>
 
 
