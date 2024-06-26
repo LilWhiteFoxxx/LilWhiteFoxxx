@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm LilWhiteFoxxx</h1>
+# 🍥 I'm LilWhiteFoxxx
 
 <img align="right" alt="Coding" width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xuOGt0NHZsM21heDg3eG9zbmttdXZrMmRmZHl4ZWFhZXExazZzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KxbHmvL3MGcctzlfdX/giphy.gif">
 
@@ -8,8 +8,26 @@
 
 - 💬 Ask me about **Everything**
 - 📫 How to reach me **catdablack1102@gmail.com**
-
-
-<p align="left">
+  
+<p align="left" height="300">
 </p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+## Github stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LilWhiteFoxxx&show_icons=true&theme=dark) 
+
+
 
