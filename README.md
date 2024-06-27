@@ -26,12 +26,15 @@
 <br/>
 
 
-## Github stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LilWhiteFoxxx&show_icons=true&theme=dark) 
+## Github stats 
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=LilWhiteFoxxx&show_icons=true&theme=dark&card_width=500px" alt="LilWhiteFoxxx" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilWhiteFoxxx&langs_count=6&hide=ruby,c,vim%20script,emacs%20lisp&layout=compact&show_icons=true&theme=dark" />
+</p>
 
 ## Activity On GitHub
 
-<p align="right">
+<p align="center">
   <a href="https://github.com/LilWhiteFoxxx">      
 <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LilWhiteFoxxx&theme=dark&hide_border=true&stroke=f53b3b"/>
 </a> 
